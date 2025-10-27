@@ -62,7 +62,7 @@ Built a pipeline to predict Bitcoin prices using deep learning and traditional M
 - Compared **LSTM**, **GRU**, and **XGBoost**, with GRU achieving the lowest MSE (1.93e-5).  
 - Automated data fetching, normalization, and model training for reproducibility.  
 
-🔗 [View Project on GitHub](https://github.com/Machine-Learning/Bitcoin)
+🔗 [View Project on GitHub](https://github.com/Machine-Learning/Bitcoin_Prediction)
 
 ---
 

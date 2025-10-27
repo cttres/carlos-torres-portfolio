@@ -25,7 +25,7 @@ Built a machine-learning application that recognizes guitar chords from .wav fil
 - Built a PyQt5 interface with live chord visualization.  
 - Demonstrated end-to-end integration of signal processing, ML, and UI.
 
-📁 [View Project Folder](./guitr-ai)
+📁 [View Project Folder](./GuitR-AI)
 
 ---
 
@@ -62,7 +62,7 @@ Built a pipeline to predict Bitcoin prices using deep learning and traditional M
 - Compared **LSTM**, **GRU**, and **XGBoost**, with GRU achieving the lowest MSE (1.93e-5).  
 - Automated data fetching, normalization, and model training for reproducibility.  
 
-🔗 [View Project on GitHub](https://github.com/your-forked-bitcoin-repo)
+🔗 [View Project on GitHub](https://github.com/Machine-Learning/Bitcoin_Prediction)
 
 ---
 

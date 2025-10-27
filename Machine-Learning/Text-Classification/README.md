@@ -80,4 +80,4 @@ All models achieved strong results, but **BERT** significantly outperformed the 
 - **PyTorch**, **Transformers (HuggingFace)**
 - **Matplotlib**, **Seaborn**
 
-_This project was developed collaboratively as part of a comparative study on deep learning and NLP classification._
+_This project was developed collaboratively as part of a comparative study on deep learning and NLP classification, inspired by prior academic research on text classification and transformer-based models._

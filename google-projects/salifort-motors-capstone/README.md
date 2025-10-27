@@ -86,7 +86,7 @@ The **Random Forest** model outperformed XGBoost, providing higher recall and in
 
 ### 📊 Deliverables
 - [📘 Executive Summary (PDF)](./Capstone%20Executive%20Summary.pdf)  
-- [📓 Jupyter Notebook](./Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
+- [📓 Jupyter Notebook](google-projects/salifort-motors-capstone/Employee_Retention_Model.ipynb)
 
 
 _This project was developed as part of the Google Advanced Data Analytics Professional Certificate capstone, focused on applying data-driven decision-making to real-world HR challenges._

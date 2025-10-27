@@ -79,3 +79,5 @@ All models achieved strong results, but **BERT** significantly outperformed the 
 - **TensorFlow / Keras**
 - **PyTorch**, **Transformers (HuggingFace)**
 - **Matplotlib**, **Seaborn**
+
+_This project was developed collaboratively as part of a comparative study on deep learning and NLP classification._

@@ -98,4 +98,4 @@ Reports and presentations are shared under [CC BY-NC 4.0](https://creativecommon
 **Carlos A. Torres**  
 📍 Las Cruces, NM  
 📧 [tcarlosalfonso@gmail.com](mailto:tcarlosalfonso@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/carlos-torres12) | [GitHub](https://github.com/carlos-torres)
+🔗 [LinkedIn](https://linkedin.com/in/carlos-torres12) | [GitHub](https://github.com/cttres)

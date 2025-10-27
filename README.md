@@ -78,7 +78,7 @@ Built a text classification pipeline comparing traditional ML and deep learning 
 ---
 
 ## 🏆 Certifications
-- **Google Advanced Data Analytics Certificate** – Oct 2025 ([Verify](https://coursera.org/verify/L94ZC2S28PRR))  
+- **Google Advanced Data Analytics Certificate** – Oct 2025 ([Verify](https://credly.com/badges/cd0ab3ec-e3df-407a-a28f-57c8ef22850b))  
 - **The Nuts and Bolts of Machine Learning** – Oct 2025 ([Verify](https://coursera.org/verify/1GJFF3QZHXPL))  
 - **Regression Analysis: Simplify Complex Data Relationships** – Oct 2025 ([Verify](https://coursera.org/verify/JQ82VK0ZBLDK))  
 - **The Power of Statistics** – Aug 2025 ([Verify](https://coursera.org/verify/IG42R9NP7125))  

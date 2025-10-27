@@ -3,8 +3,8 @@ A collection of my data analytics and machine learning projects.
 # 📊 Carlos Torres — Data Analytics & Machine Learning Portfolio
 
 Hi, I'm **Carlos A. Torres**, a data scientist with a B.S. in Computer Science (Big Data & Data Science concentration).  
-I enjoy building projects that connect analytics, software, and real-world decision-making.  
-This portfolio showcases selected projects in **machine learning, predictive analytics, and data visualization**, completed through the **Google Advanced Data Analytics Certificate** and independent development work.
+I build projects that connect analytics, software, and real-world decision-making.  
+This portfolio highlights selected work in **machine learning, data analysis, and predictive modeling**, completed through academic, collaborative, and independent projects.
 
 ---
 
@@ -12,44 +12,68 @@ This portfolio showcases selected projects in **machine learning, predictive ana
 **Languages:** Python, SQL, R, Java, C/C++  
 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, XGBoost, PyTorch  
 **Tools:** Jupyter Notebook, Git/GitHub, Tableau, Excel, VS Code  
-**Core Skills:** EDA, Data Cleaning, ETL Pipelines, Feature Engineering, Model Evaluation, Data Storytelling
+**Core Skills:** EDA, Data Cleaning, Feature Engineering, Model Training & Evaluation, Visualization, Data Storytelling
 
 ---
 
 ## 📂 Featured Projects
 
-### 🎸 1. GuitR AI — Real-Time Guitar Chord Recognition
+### 🎸 1. GuitR AI — Real-Time Guitar Chord Recognition  
 **Type:** Full-Stack ML App | **Skills:** Python, madmom, Demucs, PyQt5, Audio ML  
 Built a machine-learning application that recognizes guitar chords from .wav files in real time.  
-- Combined **Demucs** (audio source separation) and **madmom** (chord recognition).  
-- Created a PyQt5 interface showing live chord diagrams and playback feedback.  
+- Combined **Demucs** for source separation and **madmom** for chord detection.  
+- Built a PyQt5 interface with live chord visualization.  
 - Demonstrated end-to-end integration of signal processing, ML, and UI.
 
 📁 [View Project Folder](./guitr-ai)
 
 ---
 
-### 🧩 2. Employee Retention Prediction — Salifort Motors (Capstone)
+### 🧩 2. Employee Retention Prediction — Salifort Motors (Capstone)  
 **Type:** Classification Model | **Skills:** Random Forest, XGBoost, GridSearchCV, Feature Importance  
-Developed a machine-learning model to predict employee turnover and support HR strategy.  
-- Compared Random Forest and XGBoost; final model metrics:  
+Developed an ML model to predict employee turnover and support HR strategy.  
+- Compared Random Forest and XGBoost; final model achieved:  
   **Accuracy:** 0.985 | **Precision:** 0.992 | **Recall:** 0.917 | **F1:** 0.953  
-- Identified key predictors: satisfaction level, evaluation, projects, hours, tenure.  
-- Recommended HR actions to improve satisfaction and work-life balance.  
+- Identified key predictors: satisfaction level, projects, hours, tenure.  
+- Delivered full technical notebook and executive summary.
 
 📘 [Executive Summary (PDF)](./google-projects/salifort-motors-capstone/Capstone%20Executive%20Summary.pdf)  
 📁 [View Project Folder](./google-projects/salifort-motors-capstone)
 
 ---
 
-### 📱 3. TikTok Engagement Analysis — EDA & Regression Modeling
-**Type:** Exploratory Data Analysis | **Skills:** Python, Pandas, Seaborn, Scikit-learn, Regression Analysis  
+### 📱 3. TikTok Engagement Analysis — EDA & Regression Modeling  
+**Type:** Data Exploration | **Skills:** Python, Pandas, Seaborn, Scikit-learn, Regression Analysis  
 Performed EDA and regression modeling to analyze video performance on TikTok.  
 - Explored relationships between views, clicks, and engagement rate.  
-- Built regression models and visual reports to interpret audience patterns.  
-- Created clear, reproducible notebooks following the PACE data analysis framework.  
+- Built regression models and visual reports to interpret audience behavior.  
+- Created clean, reproducible notebooks following the PACE data analysis framework.
 
 📁 [View Project Folder](./tiktok-labs)
+
+---
+
+## 🤖 Machine Learning Projects
+
+### 💹 Bitcoin Price Prediction — LSTM, GRU, XGBoost Comparison  
+**Type:** Time Series Forecasting | **Skills:** Python, Pandas, Scikit-learn, TensorFlow, XGBoost  
+Built a pipeline to predict Bitcoin prices using deep learning and traditional ML models.  
+- Processed over 600,000 historical records from Yahoo Finance and Kaggle.  
+- Compared **LSTM**, **GRU**, and **XGBoost**, with GRU achieving the lowest MSE (1.93e-5).  
+- Automated data fetching, normalization, and model training for reproducibility.  
+
+🔗 [View Project on GitHub](https://github.com/your-forked-bitcoin-repo)
+
+---
+
+### 📰 News Classification — Machine vs. Deep Learning  
+**Type:** NLP | **Skills:** Text Preprocessing, TF-IDF, LSTM, BERT, Random Forest  
+Built a text classification pipeline comparing traditional ML and deep learning models.  
+- Evaluated **Random Forest**, **SVM**, **LSTM**, and **BERT** across 2,225 news articles.  
+- Achieved **98.5% accuracy** with fine-tuned BERT transformer model.  
+- Implemented tokenization, lemmatization, and TF-IDF vectorization.  
+
+🔗 [View Project on GitHub](https://github.com/your-forked-news-repo)
 
 ---
 

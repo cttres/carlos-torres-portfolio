@@ -73,7 +73,7 @@ Built a text classification pipeline comparing traditional ML and deep learning 
 - Achieved **98.5% accuracy** with fine-tuned BERT transformer model.  
 - Implemented tokenization, lemmatization, and TF-IDF vectorization.  
 
-🔗 [View Project on GitHub](https://github.com/your-forked-news-repo)
+🔗 [View Project on GitHub](Machine-Learning/Text-Classification)
 
 ---
 

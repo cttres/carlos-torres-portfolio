@@ -25,7 +25,7 @@ Built a machine-learning application that recognizes guitar chords from .wav fil
 - Built a PyQt5 interface with live chord visualization.  
 - Demonstrated end-to-end integration of signal processing, ML, and UI.
 
-📁 [View Project Folder](./guitr-ai)
+📁 [View Project Folder](./GuitR-AI)
 
 ---
 

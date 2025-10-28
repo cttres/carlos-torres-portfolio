@@ -1,69 +1,71 @@
-# 📱 TikTok Engagement Analysis — Exploratory Data Analysis & Regression Modeling
+# 📱 TikTok Engagement & Content Classification – Machine Learning Workflow
 
-### 📘 Project Overview
-This project was completed as part of the **Google Advanced Data Analytics Professional Certificate** (Courses 2–6).  
-It simulates a real-world analytics workflow for the **TikTok marketing team**, exploring engagement patterns across user videos, analyzing content performance, and applying regression techniques to predict engagement rates.
+### 🧠 Project Overview
+This project simulates a real-world analytics workflow for TikTok’s data science team as part of the **Google Advanced Data Analytics Professional Certificate (Courses 2–6)**.  
+It explores engagement behavior across user videos, identifies factors that drive visibility, and builds predictive models to classify videos and forecast engagement rates.
 
-The goal was to build reproducible Python notebooks that apply **data cleaning, EDA, visualization, and statistical modeling** to uncover the key factors driving engagement on the TikTok platform.
+The project combines **Exploratory Data Analysis (EDA)**, **regression modeling**, and **machine learning classification** to demonstrate the full lifecycle of a data science solution — from data preparation to insight communication.
 
 ---
 
-### 🧠 Objective
-To identify which variables — such as view count, clicks, and watch time — most influence **video engagement rates**, and to apply regression analysis to predict performance outcomes.
+### 🎯 Objective
+To understand which factors most influence video engagement (views, clicks, and watch time), and to build machine learning models that:
+1. Predict engagement rate using regression analysis.  
+2. Classify content as **claims vs. opinions** to support moderation and content triage.
 
 ---
 
 ### 📊 Dataset
-- **Source:** Simulated TikTok dataset (Google Career Certificate)  
+- **Source:** Simulated TikTok dataset provided by Google Career Certificates  
 - **Records:** Thousands of short-form video metrics  
-- **Features:** `video_id`, `views`, `likes`, `clicks`, `watch_time`, `duration`, and categorical metadata  
-- **Target Variable:** `engagement_rate` (calculated as clicks ÷ views)
+- **Key Features:**  
+  - `views`, `likes`, `clicks`, `watch_time`, `duration`  
+  - `author_ban_status`, `verified_status`, `claim_status`  
+- **Target Variables:**  
+  - `engagement_rate` (regression)  
+  - `claim_status` (classification)
 
 ---
 
 ### ⚙️ Methodology
-
 #### 🧩 Data Preparation
-- Checked for missing values, duplicates, and outliers  
-- Cleaned and standardized numeric fields  
-- Engineered engagement metrics from raw data  
-- Visualized data distributions and relationships using **Seaborn** and **Matplotlib**
+- Handled missing values, duplicates, and outliers.  
+- Engineered engagement metrics and standardized numeric fields.  
+- Performed correlation analysis and visualized feature distributions.  
 
-#### 🧮 Modeling & Analysis
-- Applied **correlation analysis** to identify strongest predictors of engagement  
-- Built **simple and multiple linear regression** models using **Scikit-learn**  
-- Evaluated performance using **R²**, **MSE**, and **RMSE** metrics  
-- Interpreted coefficients to understand how content metrics affect engagement
+#### 🧮 Modeling and Analysis
+1. **Exploratory Data Analysis (EDA):** Identified key engagement trends and skewed metrics.  
+2. **Regression Modeling:**  
+   - Built linear and multiple regression models to predict engagement rate.  
+   - Achieved **R² > 0.85**, revealing strong influence of watch time and clicks.  
+3. **Machine Learning Classification:**  
+   - Trained Logistic Regression, Naïve Bayes, and Random Forest models.  
+   - Final **Random Forest model achieved ~100% precision and ~99% recall**, offering high reliability for claim detection.  
+   - Prioritized recall to minimize false negatives (missed claims).  
 
----
-
-### 📈 Results
-- Engagement was positively correlated with **watch time** and **number of clicks**  
-- Regression models achieved strong explanatory power (**R² > 0.85**)  
-- Visualizations revealed that shorter videos with consistent posting frequency often had higher engagement rates  
-- Model coefficients provided actionable insights for content optimization
-
----
-
-### 💬 Discussion
-This project emphasized the complete **data analysis lifecycle** — from importing and cleaning data to communicating insights through visualizations and statistical evidence.  
-The analysis reinforced how **regression modeling** can quantify the relationships between creator activity and audience engagement.
+#### 🔍 Ethical Review
+- Conducted bias and fairness assessment for features like author status and verification.  
+- Proposed human-in-the-loop system to validate mid-confidence predictions.  
 
 ---
 
-### 🧠 Conclusion
-- **Key Findings:** Watch time and click-through rate are the most impactful engagement drivers  
-- **Tools Used:** Python, Pandas, Seaborn, Scikit-learn, Matplotlib  
-- **Outcome:** Provided data-driven recommendations to help TikTok teams understand which factors improve content visibility and interaction
+### 📈 Results & Insights
+- **Top Engagement Drivers:** Watch time, click-through rate, and video duration.  
+- **Claims vs. Opinions:** Claim videos received significantly higher engagement across all metrics.  
+- **Best Model:** Random Forest Classifier with high generalization and interpretability.  
+- **Business Impact:** Models enable faster triage, targeted moderation, and improved engagement strategy insights.  
 
 ---
 
 ### 🧰 Technologies Used
-- **Python**
-- **NumPy**, **Pandas**
-- **Seaborn**, **Matplotlib**
-- **Scikit-learn**
-- **Jupyter Notebook**
+- **Languages & Tools:** Python, Jupyter Notebook  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
+- **Techniques:** Data Cleaning, EDA, Regression, Classification, Hyperparameter Tuning, Model Evaluation  
+
+---
+
+### 💬 Key Takeaways
+This project demonstrates the end-to-end process of turning raw engagement data into actionable insights — integrating statistical analysis, model optimization, and ethical AI considerations. It reflects the practical workflow of a **Data Scientist or Machine Learning Engineer** working in social media analytics.
 
 ---
 

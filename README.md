@@ -45,10 +45,10 @@ Developed an ML model to predict employee turnover and support HR strategy.
 ### 📱 3. TikTok Engagement & Content Classification — Full Machine Learning Workflow  
 **Type:** End-to-End Data Science Project | **Skills:** Python, Pandas, Scikit-learn, Regression, Random Forest, Model Evaluation  
 Completed an end-to-end data analysis and machine learning project simulating TikTok’s internal analytics workflow.
--Explored engagement metrics (views, clicks, watch time) to identify factors driving audience interaction.  
--Built regression models (R² > 0.85) to predict engagement rate and later developed **classification models** (Logistic Regression, Naïve Bayes, Random Forest) to label videos as **claims vs. opinions**.  
--Final **Random Forest model achieved ~100 % precision and 99 % recall**, prioritizing fairness, interpretability, and human-in-the-loop validation.  
--Delivered full technical notebooks, ethical review, and executive summaries demonstrating a complete data-science lifecycle.  
+- Explored engagement metrics (views, clicks, watch time) to identify factors driving audience interaction.  
+- Built regression models (R² > 0.85) to predict engagement rate and later developed **classification models** (Logistic Regression, Naïve Bayes, Random Forest) to label videos as **claims vs. opinions**.  
+- Final **Random Forest model achieved ~100 % precision and 99 % recall**, prioritizing fairness, interpretability, and human-in-the-loop validation.  
+- Delivered full technical notebooks, ethical review, and executive summaries demonstrating a complete data-science lifecycle.  
 
 📁 [View Project Folder](./tiktok-labs)
 

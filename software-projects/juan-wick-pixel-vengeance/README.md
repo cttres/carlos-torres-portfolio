@@ -1,85 +1,147 @@
-<h1 align="center">  Juan Wick: Pixel Vengeance </h1>
+<h1 align="center">🎮 Juan Wick: Pixel Vengeance</h1>
 
-<p align="center"> Welcome to the Pixel Masters Game project repository! This repository hosts the source code for our game based on the John Wick universe.</p>
+<p align="center">
+A 2D pixel-style action game inspired by the John Wick universe, built in Java using object-oriented design and real-time game architecture.
+</p>
 
-<div align="center"><img src="Readme head.png" alt="Pixel Heads"></div>
+<div align="center">
+  <img src="Readme head.png" alt="Pixel Heads">
+</div>
 
+---
 
-## Table of Contents
+## 📘 Project Overview
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Show your support](#show-your-support)
+**Juan Wick: Pixel Vengeance** is a 2D pixel-based action game developed in Java as part of a collaborative software engineering project.  
 
-## Project Overview
+Players navigate through enemy-filled environments, survive increasingly challenging rounds, and engage in combat using responsive controls and real-time rendering.
 
-The Pixel Masters Game is an exciting 2D pixel-based game inspired by the world of John Wick. Players will experience challenging rounds where they must survive and defeat various enemies to progress. This README provides a comprehensive overview of the project, its features, and how to get started.
+This project demonstrates strong fundamentals in:
 
-## Features
+- Object-Oriented Programming (OOP)
+- Game loop architecture
+- Collision detection systems
+- Event-driven input handling
+- Modular software design
+- Java desktop application development
 
-- **Character Customization**: Choose different Juan Wick skins for character customization.
-- **Unique Maps**: Each level features distinct maps with different terrains, buildings, and landmarks. -Future Work-
-- **Background Story**: Engage players with background stories and quick summaries between levels.   -Future Work-
-- **Multiplayer Mode**: Play with colleagues in split-screen mode to complete tasks as a team.   -Future Work-
-- **Controls Explained**: Access the controls to learn game controls.
-- **Weapon Customization**: Customize weapons with various modifications for different gameplay experiences.   -Future Work-
+---
 
-## Getting Started
+## 🧠 Technical Architecture
 
-Follow these instructions to get the Pixel Masters Game running on your local machine.
+The game was built using Java with a modular, object-oriented design approach to ensure scalability and maintainability.
+
+### Core Components
+
+- **Main Game Loop** – Manages rendering and updates at a fixed frame rate.
+- **Player Class** – Handles movement, animations, combat logic, and state management.
+- **Enemy Classes** – Controls AI behavior and spawning mechanics.
+- **Collision System** – Detects interactions between player, enemies, and projectiles.
+- **Rendering Engine** – Loads sprites and updates frames dynamically.
+- **Input Handler** – Processes keyboard-based event listeners for player control.
+
+The architecture separates:
+- Game logic
+- Rendering
+- Input handling
+- State management
+
+This separation improves readability, debugging, and future feature expansion.
+
+---
+
+## ✨ Features
+
+### ✅ Implemented Features
+- Player movement and animation
+- Enemy spawning and combat logic
+- Health and damage system
+- Score tracking
+- Real-time rendering loop
+- Keyboard control interface
+
+### 🚧 Future Enhancements
+- **Character Customization** – Multiple Juan Wick skins  
+- **Unique Maps** – Distinct terrains, buildings, and environments  
+- **Background Story Elements** – Narrative summaries between levels  
+- **Multiplayer Mode** – Split-screen cooperative gameplay  
+- **Weapon Customization System** – Gameplay-based weapon upgrades  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Java**
+- Java Swing / AWT
+- Object-Oriented Programming principles
+- Event Listeners
+- Game Loop design patterns
+- Sprite rendering techniques
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to run the game locally.
 
 ### Prerequisites
 
 - Java Development Kit (JDK)
-- A computer with at least 5GB of RAM
-- A keyboard for game controls
+- Computer with at least 5GB RAM
+- Keyboard for controls
 
-### Installation
+---
+
+## 🔧 Installation
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/NMSU-CS-CS371/cs371-fa2023-teamproject-pixel-masters.git
+```bash
+git clone https://github.com/NMSU-CS-CS371/cs371-fa2023-teamproject-pixel-masters.git
+```
 
-## Usage 
+2. Navigate to the main folder:
 
-1. Navigate to the main folder:
-   
-   ```bash
-   cd cs371-fa2023-teamproject-pixel-masters/FinalProject/
-   ```
-2. Compile game:
+```bash
+cd cs371-fa2023-teamproject-pixel-masters/FinalProject/
+```
 
-   ```bash
-   javac -d bin -sourcepath src src/main/Main.java
-   ```
-3. Run the game:
-   
-   a) Running on a Windows System
-   ```bash
-   java -cp "bin;res" main.Main
-   ```
-   b) Running on a Unix System
-   ```bash
-   java -cp bin:res main.Main
-   ```
+3. Compile the game:
 
-## Contributing
+```bash
+javac -d bin -sourcepath src src/main/Main.java
+```
 
-We welcome contributions! If you want to contribute to this project, please follow these steps:
+4. Run the game:
 
-1. Fork this repository.
-2. Create a branch for your feature: ``git checkout -b feature-name.``
-3. Commit your changes: ``git commit -m 'Add new feature'.``
-4. Push to the branch: ``git push origin feature-name.``
-5. Submit a pull request.
-   
+### On Windows:
+```bash
+java -cp "bin;res" main.Main
+```
 
-## Show your support
+### On Unix/Mac:
+```bash
+java -cp bin:res main.Main
+```
 
-Dont forget to give a ⭐️ to this project ... Happy coding!
+---
 
+## 🎮 Usage
 
+- Use keyboard controls to move and attack.
+- Survive enemy waves to progress through rounds.
+- Track your score and health throughout gameplay.
+
+---
+
+## 👥 Collaboration
+
+This project was developed collaboratively as part of a university software engineering course focused on applying object-oriented programming principles to real-time application development.
+
+---
+
+## ⭐ Show Your Support
+
+If you enjoyed this project, consider giving it a ⭐️ on GitHub!
+
+Happy coding!

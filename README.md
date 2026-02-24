@@ -99,7 +99,7 @@ Developed a 2D pixel-style action game using object-oriented programming and rea
 - Applied modular class design for player, enemies, input handling, and state management  
 - Built a playable desktop game using Java Swing / AWT  
 
-🔗 [View Full Game Repository](https://github.com/cttres/software-projects/Juan-Wick-Pixel-Vengeance)
+🔗 [View Full Game Repository](software-projects/Juan-Wick-Pixel-Vengeance)
 
 ---
 
@@ -137,10 +137,6 @@ Reports and presentations are shared under CC BY-NC 4.0 (non-commercial use only
 
 # 🤝 Contact
 
-**Carlos A. Torres**  
-📍 Las Cruces, NM  
-📧 [tcarlosalfonso@gmail.com](mailto:tcarlosalfonso@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/carlos-torres12) | [GitHub](https://github.com/cttres)
 **Carlos A. Torres**  
 📍 Las Cruces, NM  
 📧 [tcarlosalfonso@gmail.com](mailto:tcarlosalfonso@gmail.com)  

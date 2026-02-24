@@ -99,7 +99,7 @@ Developed a 2D pixel-style action game using object-oriented programming and rea
 - Applied modular class design for player, enemies, input handling, and state management  
 - Built a playable desktop game using Java Swing / AWT  
 
-🔗 [View Full Game Repository](software-projects/Juan-Wick-Pixel-Vengeance)
+🔗 [View Full Game Repository](software-projects/juan-wick-pixel-vengeance)
 
 ---
 

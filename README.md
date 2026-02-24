@@ -71,7 +71,7 @@ Completed an end-to-end data analysis and ML project simulating TikTok’s analy
 - Compared **LSTM**, **GRU**, and **XGBoost**  
 - GRU achieved lowest MSE (1.93e-5)  
 
-🔗 [View Project on GitHub](https://github.com/cttres/Machine-Learning/tree/main/Bitcoin-Prediction)
+🔗 [View Project on GitHub](Machine-Learning/Bitcoin-Prediction)
 
 ---
 
@@ -82,7 +82,7 @@ Completed an end-to-end data analysis and ML project simulating TikTok’s analy
 - Fine-tuned BERT achieved **98.5% accuracy**  
 - Applied TF-IDF, tokenization, and lemmatization  
 
-🔗 [View Project on GitHub](https://github.com/cttres/Machine-Learning/tree/main/Text-Classification)
+🔗 [View Project on GitHub](Machine-Learning/Text-Classification)
 
 ---
 

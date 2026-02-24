@@ -82,13 +82,13 @@ This separation improves readability, debugging, and future feature expansion.
 
 ## 🚀 Getting Started
 
-Follow these instructions to run the game locally.
+Follow these instructions to run **Juan Wick: Pixel Vengeance** locally.
 
-### Prerequisites
+### 📋 Prerequisites
 
-- Java Development Kit (JDK)
+- Java Development Kit (JDK 8 or higher)
 - Computer with at least 5GB RAM
-- Keyboard for controls
+- Keyboard for gameplay controls
 
 ---
 
@@ -97,13 +97,13 @@ Follow these instructions to run the game locally.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/NMSU-CS-CS371/cs371-fa2023-teamproject-pixel-masters.git
+git clone https://github.com/cttres/Juan-Wick-Pixel-Vengeance.git
 ```
 
-2. Navigate to the main folder:
+2. Navigate into the project directory:
 
 ```bash
-cd cs371-fa2023-teamproject-pixel-masters/FinalProject/
+cd Juan-Wick-Pixel-Vengeance
 ```
 
 3. Compile the game:
@@ -119,7 +119,7 @@ javac -d bin -sourcepath src src/main/Main.java
 java -cp "bin;res" main.Main
 ```
 
-### On Unix/Mac:
+### On Unix / Mac:
 ```bash
 java -cp bin:res main.Main
 ```

@@ -1,0 +1,147 @@
+*   88a6069 - (6 days ago) Merge pull request #65 from NMSU-CS-CS371/horacio - Horacio Gonzalez (HEAD -> main, origin/main, origin/HEAD)
+|\  
+| * 8a1cd49 - (6 days ago) Javadoc Comments - Horacio Gonzalez (origin/horacio)
+| * 1f39d34 - (6 days ago) Javadoc Comments added, improved playability - Horacio Gonzalez
+|/  
+* cd37973 - (6 days ago) Update config.txt - Horacio Gonzalez
+* 296932d - (6 days ago) Update README.md - Horacio Gonzalez
+* dc7904c - (6 days ago) Update README.md - Horacio Gonzalez
+* 3831ee9 - (6 days ago) Delete FinalProject/bin/tile directory - Horacio Gonzalez
+* e958cb9 - (6 days ago) Delete FinalProject/bin/object directory - Horacio Gonzalez
+* b2d2e02 - (6 days ago) Delete FinalProject/bin/main directory - Horacio Gonzalez
+* 7732265 - (6 days ago) Delete FinalProject/bin/entity directory - Horacio Gonzalez
+* b8eb4ce - (6 days ago) Sprint 5: updates - Horacio Gonzalez
+*   8d4bf17 - (7 days ago) Merge pull request #58 from NMSU-CS-CS371/horacio - Horacio Gonzalez
+|\  
+| *   f16b646 - (7 days ago) Merge branch 'main' of https://github.com/NMSU-CS-CS371/cs371-fa2023-teamproject-pixel-masters into horacio - horaciog1
+| |\  
+| |/  
+|/|   
+* | 7a2b39f - (11 days ago) repo activity graph - Jonathan Cook
+* | bcb2645 - (11 days ago) updated user stats - Jonathan Cook
+* |   cc902db - (3 weeks ago) Merge pull request #56 from NMSU-CS-CS371/horacio - Horacio Gonzalez
+|\ \  
+| | * 473e1e9 - (7 days ago) Sprint 5 - horaciog1
+| | * 90e395a - (8 days ago) Sprint 5 - horaciog1
+| | * 0776d2a - (8 days ago) Sprint 5 - horaciog1
+| | * ee7bd5d - (8 days ago) Sprint 5 - Horacio Gonzalez
+| | * 450f80b - (8 days ago) Sprint 5 - Horacio Gonzalez
+| | * a4a589b - (9 days ago) Sprint 5 - Horacio Gonzalez
+| | * 622fe9b - (9 days ago) Sprint 5: - Horacio Gonzalez
+| | * c4e6ba6 - (11 days ago) Bullet resizing tests - Horacio Gonzalez
+| | * b523cc9 - (11 days ago) Sprint 5 - Horacio Gonzalez
+| | * bb05741 - (11 days ago) Sprint 5 - horaciog1
+| | * dab9675 - (11 days ago) Sprint 5 part 1: - Horacio Gonzalez
+| | * db69736 - (11 days ago) Sprint 5 part 1: - Horacio Gonzalez
+| | *   fa1dde8 - (3 weeks ago) Merge branch 'horacio' of https://github.com/NMSU-CS-CS371/cs371-fa2023-teamproject-pixel-masters into horacio Rebase branch - Horacio Gonzalez
+| | |\  
+| | |/  
+| |/|   
+| * | 9f410f5 - (4 weeks ago) Change size of window and the things that change with it - horaciogonzalez
+| | * d7e3806 - (4 weeks ago) Change size of window and the things that change with it - horaciogonzalez
+| |/  
+|/|   
+* | e1ec3de - (3 weeks ago) Update README.md - Horacio Gonzalez
+* | 1306d2f - (3 weeks ago) Update README.md - Horacio Gonzalez
+* | ee9ca04 - (3 weeks ago) Update README.md - Horacio Gonzalez
+* | f66fa57 - (4 weeks ago) Merge pull request #45 from NMSU-CS-CS371/horacio - Horacio Gonzalez
+|\| 
+| * 68d586c - (4 weeks ago) Sprint 4 - Horacio Gonzalez
+* | 545e271 - (4 weeks ago) Update README.md - Horacio Gonzalez
+|/  
+*   c865aae - (4 weeks ago) Merge pull request #40 from NMSU-CS-CS371/horacio - Horacio Gonzalez (origin/erick_nevarez, origin/erick_lopez, origin/carlos)
+|\  
+| * 428d0d9 - (4 weeks ago) Update classpath - horaciog1
+* | 5a9ef31 - (4 weeks ago) Update README.md - Horacio Gonzalez
+* | 310f3af - (4 weeks ago) Update README.md - Horacio Gonzalez
+* | 30c13f3 - (4 weeks ago) Add files via upload - Horacio Gonzalez
+* | b97d3d0 - (4 weeks ago) Update README.md - Horacio Gonzalez
+|/  
+*   6876915 - (4 weeks ago) Merge pull request #39 from NMSU-CS-CS371/erick_lopez - Horacio Gonzalez
+|\  
+| *   272dc3f - (4 weeks ago) Merge branch 'main' into erick_lopez - Horacio Gonzalez
+| |\  
+| |/  
+|/|   
+* |   a84fe97 - (4 weeks ago) Merge pull request #38 from NMSU-CS-CS371/horacio - Horacio Gonzalez
+|\ \  
+| * | 9d4d360 - (4 weeks ago) Comments and descriptions added; error with the player's hit-box fixed - Horacio Gonzalez
+| * | 1116a31 - (6 weeks ago) Objects with actions and collisions for objects implemented - Horacio Gonzalez
+| * |   9f9b261 - (6 weeks ago) Merge pull request #27 from NMSU-CS-CS371/main - Horacio Gonzalez
+| |\ \  
+* | | | 1010226 - (4 weeks ago) updated userstats - Jonathan Cook
+| |/ /  
+|/| |   
+* | | 8cd0573 - (6 weeks ago) Collision implemented, camera implemented - Horacio Gonzalez
+* | | 803b5fe - (6 weeks ago) Merge pull request #26 from NMSU-CS-CS371/horacio - Horacio Gonzalez
+|\| | 
+| * |   74c61a3 - (6 weeks ago) Merge branch 'main' into horacio - Horacio Gonzalez
+| |\ \  
+| |/ /  
+|/| |   
+* | | 03da1b9 - (7 weeks ago) initial repo user statistics - Jonathan Cook
+* | |   0eece0d - (9 weeks ago) Merge pull request #7 from NMSU-CS-CS371/erick_nevarez - Horacio Gonzalez
+|\ \ \  
+| * | | 7cb7f36 - (9 weeks ago) Map Implementation - nevar
+| | * | a5143ea - (6 weeks ago) Quick update - Horacio Gonzalez
+| | * | 51c3782 - (6 weeks ago) Update TileManager.java - Horacio Gonzalez
+| | * | 2e2e070 - (6 weeks ago) Sprint 2.0 (Collision implemented, camera implemented) - horac
+| | * | c708124 - (6 weeks ago) Sprint 2.0 (Collision implemented, camera implemented) - horac
+| | * | 406986e - (6 weeks ago) error - horac
+| | * | 1159d63 - (6 weeks ago) Git error - horac
+| | * | 968ad38 - (6 weeks ago) Sprint 2.0 (Collision implemented, camera implemented) - horac
+| | * | 79feac5 - (7 weeks ago) initial repo user statistics - Jonathan Cook
+| | * | 9720db4 - (9 weeks ago) Map Implementation - nevar
+| | * |   b3e9ec0 - (9 weeks ago) Merge pull request #8 from NMSU-CS-CS371/main - Horacio Gonzalez
+| | |\ \  
+| |_|/ /  
+|/| | |   
+* | | | b71d58c - (9 weeks ago) Update .gitignore - Horacio Gonzalez
+| |/ /  
+|/| |   
+* | | 16ccd5a - (9 weeks ago) Update .gitignore - Horacio Gonzalez
+|/ /  
+| * 0abc34e - (4 weeks ago) Title screen implemented; lives displaying on top as well as keys; pause state and title state implemented - Horacio Gonzalez
+| * 40be48f - (4 weeks ago) Implementation of lives and count for keys - Horacio Gonzalez
+| * d466137 - (6 weeks ago) Fixing branch - Horacio Gonzalez
+| * 5375593 - (6 weeks ago) UI added - Horacio Gonzalez
+| * c309526 - (6 weeks ago) Fix tiles - Horacio Gonzalez
+| * 592195b - (6 weeks ago) Fix objects - Horacio Gonzalez
+| * dabd02b - (6 weeks ago) fix main package - Horacio Gonzalez
+| * 3f0b04f - (6 weeks ago) fix - Horacio Gonzalez
+| * 3ca2268 - (6 weeks ago) Fixing Branch - Horacio Gonzalez
+| * 2aa1ac7 - (9 weeks ago) test - 17ericklopez
+|/  
+*   0016242 - (9 weeks ago) Merge pull request #5 from NMSU-CS-CS371/horacio - Erick Lopez
+|\  
+| * 0265757 - (10 weeks ago) Change brackground color to white to see the sprite better - horaciogonzalez
+| * 399e01e - (10 weeks ago) Sprites working - horac
+| * 71ec4e6 - (10 weeks ago) Sprites imported, tile size changed - horaciogonzalez
+* | afa3815 - (10 weeks ago) Merge pull request #4 from NMSU-CS-CS371/horacio - Horacio Gonzalez
+|\| 
+| * 734d4e5 - (10 weeks ago) PNG sprites created ready for implementation - horac
+| * 2d2fc5d - (2 months ago) Improving code for sprites implementation - horaciogonzalez
+* | ab14698 - (2 months ago) Delete FinalProject/bin/main directory - Horacio Gonzalez
+* | b5546f7 - (2 months ago) Merge pull request #1 from NMSU-CS-CS371/horacio - Horacio Gonzalez
+|\| 
+| * 01f7fe2 - (2 months ago) Description of key kandler - horaciogonzalez
+|/  
+* 5b59dd1 - (3 months ago) FinalProject/ - Horacio González
+* 2306304 - (3 months ago) FinalProject/ - Horacio González
+* 2edb59e - (3 months ago) initial commit - horac
+* 7331dfa - (3 months ago) FinalProject/ - Horacio González
+*   52ff705 - (3 months ago) src/ - Horacio Gonzalez
+|\  
+| * 09153f4 - (3 months ago) Delete FinalProject directory - Horacio Gonzalez
+| * 5c6e46c - (3 months ago) Delete src/main directory - Horacio Gonzalez
+| *   c5318b8 - (3 months ago) Merge branch 'main' of https://github.com/NMSU-CS-CS371/cs371-fa2023-teamproject-pixel-masters - Horacio González
+| |\  
+| | * c9552d7 - (3 months ago) Create README.md - Horacio Gonzalez
+| * | 42c7746 - (3 months ago) src/ - Horacio González
+| |/  
+* | 1534df8 - (3 months ago) FinalProject/ - Horacio Gonzalez
+* | 1b6e6f8 - (3 months ago) initial commit - horaciogonzalez
+|/  
+* 01ee634 - (3 months ago) testing eclipse with git - horaciogonzalez
+* 7942224 - (3 months ago) sprites/ - Horacio González
+* c7e6b50 - (3 months ago) First commit - horac

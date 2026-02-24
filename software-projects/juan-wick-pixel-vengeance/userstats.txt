@@ -1,0 +1,83 @@
+======== REPO stats ========
+User statistics, generated on 2023-12-08 15:34:38.482469
+------
+User: nevar            commits:2        pullrequests:0        othermerges:0       
+   filetype:.java      added:246        removed:8
+   filetype:.txt       added:28         removed:0
+   binfile:.png        number:6
+------
+User: horac            commits:9        pullrequests:0        othermerges:0       
+   filetype:.piskel    added:6          removed:0
+   filetype:no-ext     added:28         removed:0
+   filetype:.prefs     added:16         removed:0
+   filetype:.piskel}   added:0          removed:0
+   filetype:.txt       added:100        removed:0
+   filetype:.java      added:580        removed:63
+   binfile:.png        number:24
+------
+User: horaciogonzalez  commits:8        pullrequests:0        othermerges:0       
+   filetype:no-ext     added:1          removed:1
+   filetype:.java      added:104        removed:31
+   binfile:.class      number:14
+   binfile:no-ext      number:2
+   binfile:.png        number:24
+------
+User: 17ericklopez     commits:1        pullrequests:0        othermerges:0       
+   filetype:no-ext     added:0          removed:28
+   filetype:.prefs     added:0          removed:12
+   filetype:.java      added:0          removed:449
+   binfile:.png        number:24
+------
+User: horaciog1        commits:6        pullrequests:0        othermerges:1       
+   filetype:no-ext     added:4          removed:2
+   filetype:.java      added:298        removed:63
+   filetype:.txt       added:4          removed:4
+   binfile:.class      number:9
+   binfile:.wav        number:1
+   binfile:.png        number:8
+------
+User: Erick Lopez      commits:1        pullrequests:1        othermerges:0       
+------
+User: Horacio Gonzalez commits:65       pullrequests:13       othermerges:3       
+   filetype:no-ext     added:34         removed:30
+   filetype:.md        added:124        removed:39
+   filetype:.java      added:6622       removed:2603
+   filetype:.prefs     added:12         removed:16
+   filetype:.txt       added:595        removed:443
+   binfile:.class      number:96
+   binfile:.wav        number:47
+   binfile:.ttf        number:3
+   binfile:.png        number:184
+   binfile:no-ext      number:1
+------
+User: Jonathan Cook    commits:5        pullrequests:0        othermerges:0       
+   filetype:.txt       added:307        removed:45
+------
+User: Horacio González commits:6        pullrequests:0        othermerges:1       
+   filetype:no-ext     added:19         removed:1
+   filetype:.prefs     added:12         removed:0
+   filetype:.java      added:245        removed:0
+   filetype:.piskel    added:7          removed:0
+   binfile:.class      number:1
+   binfile:no-ext      number:2
+------
+======== WIKI stats =========
+User statistics, generated on 2023-12-08 15:34:38.529517
+------
+User: Carlos Torres    commits:40       pullrequests:0        othermerges:0       
+   filetype:.md        added:115        removed:100
+------
+User: horaciog1        commits:6        pullrequests:0        othermerges:0       
+   filetype:.md        added:21         removed:20
+------
+User: Erick Lopez      commits:61       pullrequests:0        othermerges:0       
+   filetype:.md        added:346        removed:191
+------
+User: erickn02         commits:17       pullrequests:0        othermerges:0       
+   filetype:.md        added:27         removed:24
+------
+User: Horacio Gonzalez commits:20       pullrequests:0        othermerges:0       
+   filetype:.md        added:237        removed:22
+------
+User: Erick Nevarez    commits:1        pullrequests:0        othermerges:0       
+------
